@@ -1,0 +1,188 @@
+body {
+    background-color:  #f9ecec;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+nav {
+    background-color: #45171d;
+    padding: 15px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+.about {
+    background-color:#c8d9eb;
+    padding: 30px;
+    width: 30%;
+    margin: 0 auto;
+    border-radius:50px;
+    text-align: center;
+}
+
+.about h2 {
+    margin: 20px;
+    font-size: 50px;
+    color: #000;
+}
+
+
+.about img {
+    border: 10px solid #f0d9da;
+    border-radius: 10%; 
+    width: 400px; 
+    height: 400px; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+
+.about p {
+    font-size:25px;
+    color: #2F4F4F;
+}
+
+
+
+.hobbies {
+    padding: 20px;
+    width: 60%; 
+    margin: 0 auto;
+    border-radius: 20px;
+    
+}
+
+.hobbies h4 {
+    font-size: 30px;
+    color: #45171d;
+    text-align: center;
+}
+
+.hobby {
+    border: 2px solid #f0d9da;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+
+
+.hobby img {
+    width: 200px; 
+    height: 200px; 
+    border-radius:10%;
+}
+
+.photography {
+    font-size: 20px;;
+    background-color: #f3e0dc;
+    
+
+}
+
+.horseback-riding {
+    font-size: 20px;
+    background-color: #e0f3de;
+
+}
+
+.reading {
+    font-size: 20px;
+    background-color: #e0e8f3;
+
+
+}
+
+.hobby a {
+    color: #45171d;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+
+
+.guess-hobby{
+
+ padding: 20px;
+ margin: 20px auto;
+ width: 80%;
+ border-radius: 20px;   
+ text-align: center;
+}
+
+.guess-hobby h4 {
+    font-size: 30px;
+    color: #45171d;
+}
+
+.form label {
+    font-size: 20px;
+    color: #2F4F4F;
+
+}
+
+.form input[type="text"] {
+    padding: 10px;
+    width: 50%;
+    border: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    box-sizing: border-box;
+
+}
+
+.form input[type="submit"] {
+    padding: 10px 10px;
+    color:#000;
+    background-color:  #fde9df;
+    border: none;
+    font-size: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.future-goals {
+    background-color:  #e6a4b4;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 60%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 16%;
+}
+
+.future-goals h4 {
+    font-size: 30px;
+    color: #45171d;
+}
+
+.future-goals p {
+    font-size: 18px;
+    color: #2F4F4F;
+    line-height: 1.5;
+}
+
+
+
+
+
+
